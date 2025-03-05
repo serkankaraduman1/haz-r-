@@ -1,0 +1,30 @@
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\bin\Debug\Eczane Otomasyonu.exe.config
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\bin\Debug\Eczane Otomasyonu.exe
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\bin\Debug\Eczane Otomasyonu.pdb
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Form1.resources
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Form2.resources
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Properties.Resources.resources
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.exe
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.pdb
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Form3.resources
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Form5.resources
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Form6.resources
+C:\Users\Ahmet\source\repos\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Form7.resources
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\bin\Debug\Eczane Otomasyonu.exe.config
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\bin\Debug\Eczane Otomasyonu.exe
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\bin\Debug\Eczane Otomasyonu.pdb
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Form1.resources
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Form2.resources
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Form3.resources
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Form5.resources
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Form6.resources
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Form7.resources
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.exe
+C:\Users\Ahmet\Desktop\202503021_AhmetCebirKember\202503021_AhmetCebirKember\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.pdb
